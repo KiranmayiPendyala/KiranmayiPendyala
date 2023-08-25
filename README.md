@@ -20,15 +20,15 @@
     <li>Java</li>
     <li>Python</li>
     <li>PySpark</li>
-    <li>SQL</li>
-  </ul>
+    <li>SQL</li> 
+</ul>
 </body>
-
+<body>
 <h3>
    Kiranmayi's Top Langs
 </h3>
-<body>
-  <ul> <li> Python</li></ul>
+<ul>
+  <li> Python</li> </ul>
 </body>
 
 </html>
