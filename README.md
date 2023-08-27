@@ -17,7 +17,7 @@
   <h2>Languages and Tools:</h2>
   <ul>
     <li> C </li>
-    <li>Java</li>
+   <li>Java</li>
     <li>Python</li>
     <li>PySpark</li>
     <li>SQL</li> 
